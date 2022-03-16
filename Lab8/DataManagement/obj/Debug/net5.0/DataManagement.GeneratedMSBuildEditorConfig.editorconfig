@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = DataManagement
+build_property.ProjectDir = C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\

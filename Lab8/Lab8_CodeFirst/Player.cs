@@ -4,10 +4,11 @@ using System.Linq;
 using System.Runtime.Remoting.Channels;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace Lab8_CodeFirst
 {
-    class Player
+    public class Player
     {
         public int PlayerID { get; set; }
         public string Name { get; set; }

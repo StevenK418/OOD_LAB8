@@ -1,0 +1,15 @@
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\obj\Debug\DataManagement.csproj.AssemblyReference.cache
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\obj\Debug\DataManagement.csproj.CoreCompileInputs.cache
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\DataManagement.exe.config
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\DataManagement.exe
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\DataManagement.pdb
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\EntityFramework.dll
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\Lab8_CodeFirst.exe
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\Lab8_CodeFirst.pdb
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\Lab8_CodeFirst.exe.config
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\EntityFramework.xml
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\obj\Debug\DataManagement.csproj.CopyComplete
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\obj\Debug\DataManagement.exe
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\DataManagement\obj\Debug\DataManagement.pdb

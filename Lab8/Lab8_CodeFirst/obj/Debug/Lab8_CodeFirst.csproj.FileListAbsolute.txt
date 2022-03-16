@@ -1,6 +1,10 @@
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\bin\Debug\Lab8_CodeFirst.exe.config
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\bin\Debug\Lab8_CodeFirst.exe
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\bin\Debug\Lab8_CodeFirst.pdb
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.csproj.AssemblyReference.cache
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\MainWindow.g.cs
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\App.g.cs
@@ -11,5 +15,6 @@ C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\O
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.Properties.Resources.resources
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.csproj.GenerateResource.cache
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.csproj.CopyComplete
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.exe
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.pdb
