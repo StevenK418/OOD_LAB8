@@ -18,13 +18,13 @@ namespace GameDataManagement
             {
 
                 //Create instances
-                ComputerGame cg1 = new ComputerGame(){GameID = 1, Title = "Sonic The Hedgehog", Publisher = "SEGA", Description = "A blue hedgehog collects rings while travelling at subsonic speed", ESRBRating = 7};
-                Character ch1 = new Character(){CharacterID = 1, Name = "Sonic", Species = "Hedgehog", Color = "Blue", GameID = 1, ComputerGame = cg1};
-                Character ch2 = new Character(){CharacterID = 2, Name = "Tails", Species = "Fox", Color = "Yellow", GameID = 1, ComputerGame = cg1 };
+                ComputerGame cg1 = new ComputerGame(){ComputerGameID = 1, Title = "Sonic The Hedgehog", Publisher = "SEGA", Description = "A blue hedgehog collects rings while travelling at subsonic speed", ESRBRating = 7};
+                Character ch1 = new Character(){CharacterID = 1, Name = "Sonic", Species = "Hedgehog", Color = "Blue", ComputerGameID = 1, ComputerGame = cg1};
+                Character ch2 = new Character(){CharacterID = 2, Name = "Tails", Species = "Fox", Color = "Yellow", ComputerGameID = 1, ComputerGame = cg1 };
 
-                ComputerGame cg2 = new ComputerGame() { GameID = 2, Title = "Super Mario", Publisher = "Nintendo", Description = "An Italian plumber goes on a rampage across the mushroom kingdom", ESRBRating = 3 };
-                Character ch3 = new Character(){CharacterID = 3, Name = "Mario", Species = "Human", Color = "Red", GameID = 2, ComputerGame = cg2 };
-                Character ch4 = new Character(){CharacterID = 4, Name = "Luigi", Species = "Human", Color = "Green", GameID = 2, ComputerGame = cg2 };
+                ComputerGame cg2 = new ComputerGame() { ComputerGameID = 2, Title = "Super Mario", Publisher = "Nintendo", Description = "An Italian plumber goes on a rampage across the mushroom kingdom", ESRBRating = 3 };
+                Character ch3 = new Character(){CharacterID = 3, Name = "Mario", Species = "Human", Color = "Red", ComputerGameID = 2, ComputerGame = cg2 };
+                Character ch4 = new Character(){CharacterID = 4, Name = "Luigi", Species = "Human", Color = "Green", ComputerGameID = 2, ComputerGame = cg2 };
 
                 //Add the computer games to the database
                 db.ComputerGames.Add(cg1);

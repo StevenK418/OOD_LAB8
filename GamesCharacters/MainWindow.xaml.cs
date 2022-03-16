@@ -24,5 +24,14 @@ namespace GamesCharacters
         {
             InitializeComponent();
         }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            ComputerGameData db = new ComputerGameData();
+            var query = from g in db.ComputerGames
+                select g.Title;
+
+            LBX_ComputerGameData.ItemsSource = query.ToList();
+        }
     }
 }
