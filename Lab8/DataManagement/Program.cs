@@ -37,6 +37,10 @@ namespace DataManagement
 
                 //Save the changes
                 db.SaveChanges();
+
+                Console.WriteLine("Saving changes to database!");
+                Console.WriteLine("Press enter to continue...");
+                Console.ReadLine();
             }
         }
     }
