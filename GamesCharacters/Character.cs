@@ -9,9 +9,11 @@ namespace GamesCharacters
 {
     public class Character
     {
+        public int CharacterID { get; set; }
         public string Name { get; set; }
         public string Species { get; set; }
         public string Color { get; set; }
+        public int GameID { get; set; }
         public virtual ComputerGame ComputerGame { get; set; }
     }
 }

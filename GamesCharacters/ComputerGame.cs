@@ -10,6 +10,7 @@ namespace GamesCharacters
 {
     public class ComputerGame
     {
+        public int GameID { get; set; }
         public string Title { get; set; }
         public string Publisher { get; set; }
         public string Description { get; set; }

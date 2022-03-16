@@ -1,0 +1,15 @@
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\GameDataManagement.exe.config
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\GameDataManagement.exe
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\GameDataManagement.pdb
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\EntityFramework.dll
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\GamesCharacters.exe
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\GamesCharacters.pdb
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\GamesCharacters.exe.config
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\EntityFramework.xml
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\obj\Debug\GameDataManagement.csproj.AssemblyReference.cache
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\obj\Debug\GameDataManagement.csproj.CoreCompileInputs.cache
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\obj\Debug\GameDataManagement.csproj.CopyComplete
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\obj\Debug\GameDataManagement.exe
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\GameDataManagement\obj\Debug\GameDataManagement.pdb
