@@ -24,5 +24,15 @@ namespace Lab8_CodeFirst
         {
             InitializeComponent();
         }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            TeamData db = new TeamData();
+
+            var query = from t in db.Teams
+                select t.TeamName;
+
+            LBX_TeamData.ItemsSource = query.ToList();
+        }
     }
 }
