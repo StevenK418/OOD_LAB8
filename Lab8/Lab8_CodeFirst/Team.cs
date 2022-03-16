@@ -14,6 +14,7 @@ namespace Lab8_CodeFirst
         public int TeamID { get; set; }
         public string TeamName { get; set; }
         public string Location { get; set; }
+        public string HomeGround { get; set; }
         public virtual List<Player> Players { get; set; }
         
     }

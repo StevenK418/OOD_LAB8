@@ -65,6 +65,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Migrations\202203161036027_InitialCreate.cs" />
+    <Compile Include="Migrations\202203161036027_InitialCreate.designer.cs">
+      <DependentUpon>202203161036027_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203161110414_AddHomeGround.cs" />
+    <Compile Include="Migrations\202203161110414_AddHomeGround.designer.cs">
+      <DependentUpon>202203161110414_AddHomeGround.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="TeamData.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -95,6 +104,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <EmbeddedResource Include="Migrations\202203161036027_InitialCreate.resx">
+      <DependentUpon>202203161036027_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203161110414_AddHomeGround.resx">
+      <DependentUpon>202203161110414_AddHomeGround.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

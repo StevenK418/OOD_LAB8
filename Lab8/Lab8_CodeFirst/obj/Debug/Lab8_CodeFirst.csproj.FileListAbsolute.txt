@@ -18,3 +18,5 @@ C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\O
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.csproj.CopyComplete
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.exe
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.pdb
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.Migrations.InitialCreate.resources
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\Lab8\Lab8_CodeFirst\obj\Debug\Lab8_CodeFirst.Migrations.AddHomeGround.resources
