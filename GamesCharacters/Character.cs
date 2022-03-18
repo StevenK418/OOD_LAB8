@@ -13,6 +13,7 @@ namespace GamesCharacters
         public string Name { get; set; }
         public string Species { get; set; }
         public string Color { get; set; }
+        public string Image { get; set; }
         public int ComputerGameID { get; set; }
         public virtual ComputerGame ComputerGame { get; set; }
     }

@@ -18,3 +18,5 @@ C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\O
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\GamesCharacters\obj\Debug\GamesCharacters.csproj.CopyComplete
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\GamesCharacters\obj\Debug\GamesCharacters.exe
 C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\GamesCharacters\obj\Debug\GamesCharacters.pdb
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\GamesCharacters\obj\Debug\GamesCharacters.Migrations.InitialCreate.resources
+C:\Users\steve\Google Drive\Computer Science Studies\Year2\Subjects\Semester 2\ObjectOrientedDevelopment\Labs\Lab8\CodeFirst\GamesCharacters\obj\Debug\GamesCharacters.Migrations.AddCharacterImagePath.resources
