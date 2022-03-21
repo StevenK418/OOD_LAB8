@@ -16,5 +16,10 @@ namespace GamesCharacters
         public string Image { get; set; }
         public int ComputerGameID { get; set; }
         public virtual ComputerGame ComputerGame { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Name}";
+        }
     }
 }

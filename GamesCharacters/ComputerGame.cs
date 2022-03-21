@@ -17,5 +17,10 @@ namespace GamesCharacters
         public string Description { get; set; }
         public int ESRBRating { get; set; }
         public virtual List<Character> Characters { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Title}";
+        }
     }
 }

@@ -20,6 +20,8 @@ namespace GamesCharacters
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        static ComputerGameData db = new ComputerGameData();
         public MainWindow()
         {
             InitializeComponent();
@@ -27,11 +29,39 @@ namespace GamesCharacters
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            ComputerGameData db = new ComputerGameData();
             var query = from g in db.ComputerGames
-                select g.Title;
+                select g;
 
             LBX_ComputerGameData.ItemsSource = query.ToList();
+        }
+
+        private void LBX_ComputerGameData_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ListBox box = (ListBox) sender;
+            ComputerGame game = (ComputerGame) box.SelectedItem;
+
+            var query = from c in db.Characters
+                        where c.ComputerGameID == game.ComputerGameID
+                        select c;
+
+            LBX_CharacterData.ItemsSource = query.ToList();
+        }
+
+        private void LBX_CharacterData_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ListBox box = (ListBox) sender;
+            Character character = (Character) box.SelectedItem;
+
+            if (character!= null)
+            {
+                BitmapImage image = new BitmapImage();
+                image.BeginInit();
+                image.UriSource = new Uri($"{character.Image}", UriKind.Relative);
+                image.EndInit();
+
+                IMG_Character.Source = image;
+            }
+           
         }
     }
 }

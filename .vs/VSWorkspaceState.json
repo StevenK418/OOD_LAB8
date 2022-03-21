@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Lab8",
+    "\\Lab8\\Lab8_CodeFirst"
   ],
-  "SelectedNode": "\\C:\\Users\\steve\\Google Drive\\Computer Science Studies\\Year2\\Subjects\\Semester 2\\ObjectOrientedDevelopment\\Labs\\Lab8\\CodeFirst",
+  "SelectedNode": "\\Lab8\\Lab8_CodeFirst\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
