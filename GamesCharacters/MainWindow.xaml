@@ -5,14 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GamesCharacters"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded" ResizeMode="NoResize">
     <Grid>
         <ListBox x:Name="LBX_ComputerGameData" HorizontalAlignment="Left" Height="281" Margin="60,80,0,0" VerticalAlignment="Top" Width="161" SelectionChanged="LBX_ComputerGameData_SelectionChanged"/>
         <Image x:Name="IMG_Character" HorizontalAlignment="Left" Height="173" Margin="470,81,0,0" VerticalAlignment="Top" Width="119"/>
         <ListBox x:Name="LBX_CharacterData" HorizontalAlignment="Left" Height="281" Margin="268,80,0,0" VerticalAlignment="Top" Width="159" SelectionChanged="LBX_CharacterData_SelectionChanged"/>
-        <TextBlock x:Name="TBLK_ImagePath" HorizontalAlignment="Left" Margin="473,329,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="219"/>
         <Label Content="Games" HorizontalAlignment="Left" Margin="60,53,0,0" VerticalAlignment="Top" Width="161"/>
         <Label Content="Characters" HorizontalAlignment="Left" Margin="268,53,0,0" VerticalAlignment="Top" Width="159"/>
-
     </Grid>
 </Window>

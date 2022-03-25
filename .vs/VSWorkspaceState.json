@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\GamesCharacters",
     "\\Lab8",
     "\\Lab8\\Lab8_CodeFirst"
   ],
-  "SelectedNode": "\\Lab8\\Lab8_CodeFirst\\MainWindow.xaml.cs",
+  "SelectedNode": "\\GamesCharacters\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
